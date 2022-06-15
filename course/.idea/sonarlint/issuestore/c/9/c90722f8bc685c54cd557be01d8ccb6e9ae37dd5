@@ -1,0 +1,8 @@
+
+P
+java:S1854"5Remove this useless assignment to local variable "B".(ƒâþ¼üÿÿÿÿ
+S
+java:S1659">Declare "B" and all following declarations on a separate line.(¡ú‚V
+e	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ú‚V
+e	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ú‚V
+e	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ú‚V
